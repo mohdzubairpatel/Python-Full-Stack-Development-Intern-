@@ -1,0 +1,6 @@
+Writing 5,000 words in a single paragraph is technically possible but would create a massive "wall of text" that is nearly impossible for a human to read comfortably. 
+If you are looking to generate or structure that much content, here is the reality of a 5,000-word block:
+Physical Size: It would take up roughly 10 single-spaced pages without a single break.
+Readability: Most readers lose focus after 150–200 words per paragraph. A 5,000-word paragraph would likely be ignored by readers or flagged as a formatting error.
+Technical Limit: Many AI models and text editors have "token" or character limits for single blocks of text; a 5,000-word paragraph is approximately 30,000 to 35,000 characters. 
+Are you trying to generate a 5,000-word story, or do you need a specific 5,000-word text formatted into one block for a technical test?

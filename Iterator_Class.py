@@ -1,0 +1,21 @@
+class countup:
+    def __init__(self,max):
+        self.max = max
+        self.current = 1
+
+    def __iter__(self):
+        return self
+    
+    def __next__(self):
+        if self.current <= self.max:
+            num = self.current
+            self.current+= 1
+            return num
+        else:
+            raise StopIteration
+        
+
+counter = countup(5)
+
+for num in counter:
+    print(num)
