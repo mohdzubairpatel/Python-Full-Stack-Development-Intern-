@@ -1,71 +1,79 @@
-# Python Full Stack Development 🚀
-
-## 📌 Overview
-This repository contains my learning journey in Python Full Stack Development.  
-Currently, I have started with Python basics and practicing assignment questions to strengthen core programming concepts.
+# 🚀 Python Full Stack Development Journey  
+### Internship Program – Ethnotech Academic Solutions
 
 ---
 
-## 🐍 Phase 1: Python Basics (Current Stage)
+## 👨‍💻 Internship Overview
 
-Topics Covered:
+This repository documents my structured learning during my internship at Ethnotech Academic Solutions.
 
+I have successfully completed:
+
+✔ Python Core Concepts (Except File Handling)  
+✔ Object-Oriented Programming (OOP)  
+✔ Assignment practice for each concept  
+
+---
+
+# 🏆 Completed Milestones 
+
+## Phase 1: Python Core 🔄 
 - Variables & Data Types
-- Operators
-- Conditional Statements (if-else)
-- Loops (for, while)
+- Control Flow
 - Functions
-- Lists, Tuples, Sets, Dictionaries
-- String Handling
-- Exception Handling
-- File Handling
+- Data Structures
 - Generators
-- OOP Concepts (Basics)
+- Assignment Practice
+- File Handling (In Progress)
+
+## Phase 2: OOP ✅ 
+- Classes & Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Assignment Implementation
+
+✔ Strong logical foundation achieved  
+✔ Modular coding ability developed  
+
+(This section will not be edited further.)
 
 ---
 
-## 📝 Assignments & Practice
+# 🔄 Current Progress 
 
-This section contains:
+Current Phase: Completing File Handling  
+Status: In Progress  
 
-- Basic logical programs
-- Pattern programs
-- Number problems
-- String problems
-- List & dictionary problems
-- Small mini-practice projects
-
-Each assignment focuses on improving:
-- Logical thinking
-- Problem-solving skills
-- Interview preparation
+### Active Work:
+- [ ] Reading Files
+- [ ] Writing Files
+- [ ] File Modes
+- [ ] Exception Handling with Files
+- [ ] Mini File-Based Program
 
 ---
 
-## 🎯 Goal
+# 📂 Projects Tracker
 
-To build a strong foundation in Python before moving to:
-
-- Frontend Development (HTML, CSS, JavaScript)
-- Backend Development (Django / Flask / FastAPI)
-- Database (MySQL / PostgreSQL)
-- REST APIs
-- Deployment
-
----
-
-## 🚀 Future Plan
-
-- Advanced Python
-- OOP Deep Concepts
-- Data Structures & Algorithms
-- Django Backend Development
-- Full Stack Project
+| Project | Status |
+|---------|--------|
+| Python Assignment Collection | Completed |
+| OOP Mini Programs | Completed |
+| File-Based Mini Project | Upcoming |
+| CLI Project | Upcoming |
 
 ---
 
-## 👨‍💻 Author
+# 📈 Progress Meter
 
-Mohammed Zubair  
-Computer Science Student  
-Aspiring Full Stack Developer
+Overall Completion: 55%
+
+(Only update percentage when full File Handling milestone is completed.)
+
+---
+
+# 🎯 Final Internship Objective
+
+To build industry-ready full stack development skills with strong Python and backend expertise.
